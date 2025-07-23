@@ -1,0 +1,110 @@
+Sillabus:
+    Dərs 1:
+        * Komputer nedir, nece isleyir
+        * Kodlama nədir
+        * Self-study oyrenmek ve arasdirmaq ucun hansi menbeler nece istifade olunmali
+        * VSCode ve Github-in hazirlanmasi
+
+    Dərs 2:
+        * Github nedir, Kurs boyunca istifadesi
+        * AI nedir, nece istifade ede bilerik
+        * AI ile sade ve qeliz mentiq-riyaziyyat meselelerinin helli
+
+===================================================================================================
+
+    Dərs 3:
+        * HTML nedir
+        * HTML elementleri | Formlar
+        * HTML-de ilk web sehifenin yaradilmasi
+
+    Dərs 4:
+        * Website-da HTML mentiqi
+        * Duzgun file ve kod strukturu
+        * AI ile HTML istifadesi: Wikipedia yaradilmasi
+
+===================================================================================================
+
+    Dərs 5:
+        * CSS nedir
+        * CSS Container mentiqi ve tags
+        * HTML ile CSS-in birlesdirilmesi
+
+    Dərs 6:
+        * Flexbox | Grid
+        * Responsive dizayn
+        * AI ile CSS istifadesi: Products sehifesi
+
+===================================================================================================
+
+    Praktika 7:
+        * Kahoot yarismasi
+        * Bezi praktiki tapsiriqlarin helli ve izahi
+
+    Dərs 8:
+        * Figma ile profesionel bir proyektin HTML & CSS ile hazirlanmasi
+
+===================================================================================================
+
+    Dərs 9:
+        * JavaScript nedir
+        * Js ile riyazi alqoritmik meseleler
+        * Terminal nedir, nece istifade olunur
+        * Xetani gorme ve hell etme yollari
+
+    Dərs 10:
+        * Jsnin web terefde rolu
+        * Kitabxanalar istifade ederek 3 cu teref toollarin sayta qosulmasi(Iconlar, Sliderler)
+        * AI ile JS istifadesi: Products sehifesi (JS ile birge daha dinamik ve funksional)
+
+===================================================================================================
+
+    Dərs 11:
+        * Python & Backend nedir
+        * Python ile riyazi alqoritmik meseleler
+
+    Dərs 12:
+        * Python OOP
+        * OOP temelleri | methodlari
+        * AI ile Python istifadesi: Milli On sisteminin hazirlanmasi
+
+===================================================================================================
+
+    Praktika 13:
+        * Kahoot yarismasi
+        * Bezi praktiki tapsiriqlarin helli ve izahi
+
+    Dərs 14:
+        * SQL nədir
+        * SQL əsasları və SQLite
+        * AI ilə database sorğuları
+
+===================================================================================================
+
+    Dərs 15:
+        * API nədir
+        * JSON data formatı
+        * Mini-layihə: Məhsulları səhifəndə göstər (FakeAPI)
+
+    Dərs 16:
+        * Django nədir
+        * Web framework nədir
+        * Django Admin Panel
+        * REST API konsepsiyası
+        * Django ilə sadə API yaratma
+
+===================================================================================================
+
+    Dərs 17: CI/CD və Deployment
+        * Deployment nedir
+        * Domain və hosting anlayışları
+        * Netlify/Vercel ilə deploy
+        * Docker & Kubernetes
+        * Mini-layihə: Yazdigimiz bir taskın deployu
+
+    Praktika 18:
+        * LinkedIn nədir, necə yararlanmaq olar
+        * GitHub ilə böyük proyektlər və komandalarda işlənmə qaydası
+        * Kahoot ilə yarisma
+
+Son 2 hefte (4 ders) Final proyekti uzerinde calisma, ders zamani bezi praktiki tasklarin edilmesi
+
